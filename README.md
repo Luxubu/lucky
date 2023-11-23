@@ -28,3 +28,4 @@ Here is the list of Python Library:
 8. configparser: for reading configuration file like .ini file (3rd party library)
 9. loguru:   for logging   (3rd party library)
 10. pytest: python testing (3rd party library)
+11. Poetry: python virtual environment
